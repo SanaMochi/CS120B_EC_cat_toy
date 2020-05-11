@@ -1,0 +1,7 @@
+Breakpoint 1 at 0x67e: file source/main.c, line 118.
+Note: automatically using hardware breakpoints for read-only addresses.
+======================================================
+Running all tests..."
+
+"on/off (on from off and vice versa)"..."normal cw and ccw and wait"..."cat on toy from cw 3 separate hits"..."shutdown on cw and restart"..."cat on toy from ccw (3 inputs straight)"..."shutdown on wait and restart"..."test shutdown on ccw and restart"...======================================================
+Remote doesn't know how to detach
